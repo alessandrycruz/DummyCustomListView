@@ -1,6 +1,6 @@
 # DummyCustomListView
 
-Custom ListView In Android Studio
+Custom List View In Android Studio
 
 [ES] Para descargar este proyecto directamente a Android Studio haz lo siguiente.
 
